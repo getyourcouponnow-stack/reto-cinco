@@ -1,1 +1,3 @@
 Creé mi archivo en mi repositorio en github.com
+
+Realizo cambios en mi computadora local
